@@ -1,0 +1,10 @@
+#Ignore everything
+*
+
+# Keep gitignore itself
+!.gitignore
+
+# And these worlds
+!pasha_videosos.*
+!WROPS_OFFICIAL.*
+!Logan_sex_and_RocknRoll.*
